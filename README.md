@@ -1,0 +1,1 @@
+# elastic-vectorized-agent
